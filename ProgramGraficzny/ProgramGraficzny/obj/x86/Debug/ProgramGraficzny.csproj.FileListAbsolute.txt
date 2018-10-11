@@ -1,0 +1,11 @@
+C:\Users\User\AppData\Local\Temporary Projects\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\ProgramGraficzny\bin\Debug\ProgramGraficzny.exe
+C:\Users\User\AppData\Local\Temporary Projects\ProgramGraficzny\bin\Debug\ProgramGraficzny.pdb
+C:\Users\User\AppData\Local\Temporary Projects\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.exe
+C:\Users\User\AppData\Local\Temporary Projects\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.pdb
+C:\Users\User\Desktop\ProgramGraficzny\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.exe
+C:\Users\User\Desktop\ProgramGraficzny\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.pdb
+C:\Users\User\Desktop\ProgramowaniewC#\ProgramGraficzny\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.exe
+C:\Users\User\Desktop\ProgramowaniewC#\ProgramGraficzny\ProgramGraficzny\obj\x86\Debug\ProgramGraficzny.pdb
